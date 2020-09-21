@@ -27,6 +27,4 @@ public class HelloWorldController {
 //        throw new RuntimeException("Something wrong");
         return new HelloWorldBean(String.format("Hello World, %s", name));
     }
-
-//    Basic dXNyOnB3ZA==
 }
